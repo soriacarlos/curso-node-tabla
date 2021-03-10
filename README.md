@@ -8,3 +8,5 @@ Opciones:
   -l, --listar   Muestra la tabla en consola                [booleano] [requerido] [defecto: false]
   -h, --hasta    Hasta que número desea multiplicar         [número] [requerido] [defecto: 10]
 ```
+
+![alt text](https://soriacarlos.com/proyectos-varios/img/Node-Tablas.gif "App Node Tablas")
